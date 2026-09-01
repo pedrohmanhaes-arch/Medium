@@ -12,14 +12,6 @@
 
 ---
 
-## 🖥️ Preview
-
-<p align="center">
-  <img src="assets/preview.png" alt="Preview do projeto Medium" width="850">
-</p>
-
----
-
 ## 📖 Sobre o projeto
 
 Este projeto foi desenvolvido durante meus estudos de **Desenvolvimento Web**, tendo como referência visual a plataforma **Medium**.
